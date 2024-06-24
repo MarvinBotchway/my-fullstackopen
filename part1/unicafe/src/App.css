@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+}
+
+button {
+  padding: 0.25rem;
+  margin-right: 0.5rem;
+}
+
+button:hover {
+  background-color: white;
+}
+
+h2 {
+  padding: 1rem 0;
+  font-size: xx-large;
+}
+table {
+  text-align: left;
+  font-weight: 400;
+}
+td {
+  padding: 0.05rem;
+  font-size: large;
+}
